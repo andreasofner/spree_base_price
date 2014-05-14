@@ -29,16 +29,16 @@ Usage
 
 First fill in a base unit for this product (e.g. Kilo, Liter, ...). You can also give a filling weight for this product
 
-![Spree Base Price](screenshot_01_.png "Update product")
+![Spree Base Price](screenshot_01.png "Update product")
 
 or you can give a filling weight for each variant:
 
-![Spree Base Price](screenshot_02_.png "Update variant")
+![Spree Base Price](screenshot_02.png "Update variant")
 
 In your shop you can see your base price under the normal price:
 
-![Spree Base Price](screenshot_03_.png "Product with base price")
-![Spree Base Price](screenshot_04_.png "Product with base price and other variant")
+![Spree Base Price](screenshot_03.png "Product with base price")
+![Spree Base Price](screenshot_04.png "Product with base price and other variant")
 
 Testing
 -------
